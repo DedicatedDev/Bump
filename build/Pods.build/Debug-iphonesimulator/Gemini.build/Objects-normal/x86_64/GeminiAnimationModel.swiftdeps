@@ -1,0 +1,1142 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GeminiAnimation"
+- "Gemini"
+- "GeminiAnimationModel"
+provides-nominal:
+- "6Gemini0A9AnimationO"
+- "6GeminiAAP"
+- "6Gemini0A14AnimationModelC"
+provides-member:
+- ["6Gemini0A9AnimationO", ""]
+- ["6GeminiAAP", ""]
+- ["6Gemini0A14AnimationModelC", ""]
+provides-dynamic-lookup:
+- "$__lazy_storage_$_rotationCoordinate"
+- "$__lazy_storage_$_scaleCoordinate"
+- "$__lazy_storage_$_transform3DIdentity"
+- "$__lazy_storage_$_translationCoordinate"
+- "alpha"
+- "anchorPoint"
+- "animation"
+- "backgroundColor"
+- "calculatedScale"
+- "circleRadius"
+- "circleRotationAnimation"
+- "cornerRadius"
+- "cubeAnimation"
+- "cubeDegree"
+- "customAnimation"
+- "distanceFromCenter"
+- "distanceRatio"
+- "easing"
+- "endBackgroundColor"
+- "isEnabled"
+- "isItemRotationEnabled"
+- "maxShadowAlpha"
+- "minShadowAlpha"
+- "needsCheckDistance"
+- "pitchDegree"
+- "pitchEffect"
+- "pitchRotationAnimation"
+- "rollDegree"
+- "rollEffect"
+- "rollRotationAnimation"
+- "rotateDirection"
+- "rotationCoordinate"
+- "scale"
+- "scaleAnimation"
+- "scaleCoordinate"
+- "scaleEffect"
+- "scrollDirection"
+- "shadowAlpha"
+- "shadowEffect"
+- "startBackgroundColor"
+- "transform"
+- "transform3DIdentity"
+- "translationCoordinate"
+- "visibleMaxDistance"
+- "yawDegree"
+- "yawEffect"
+- "yawRotationAnimation"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "..."
+- "/"
+- !private "<"
+- "=="
+- !private ">"
+- !private ">="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CATransform3D"
+- !private "CATransform3DConcat"
+- "CATransform3DIdentity"
+- !private "CATransform3DRotate"
+- !private "CATransform3DScale"
+- !private "CATransform3DTranslate"
+- "CGFloat"
+- "CGPoint"
+- "CGRect"
+- "CircleRotationAnimatable"
+- "CircleRotationDirection"
+- "CubeAnimatable"
+- "CustomAnimatable"
+- "FloatLiteralType"
+- "GeminScaleEffect"
+- "Gemini"
+- "GeminiAnimation"
+- "GeminiAnimationModel"
+- "GeminiEasing"
+- "IntegerLiteralType"
+- "PitchRotationAnimatable"
+- "PitchRotationEffect"
+- "RollRotationAnimatable"
+- "RollRotationEffect"
+- "ScaleAnimatable"
+- "ShadowEffect"
+- "TernaryPrecedence"
+- "UICollectionView"
+- "UIColor"
+- "YawRotationAnimatable"
+- "YawRotationEffect"
+- !private "abs"
+- !private "asin"
+- !private "cos"
+- !private "max"
+- !private "min"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "pi"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "count"]
+- !private ["SK", "map"]
+- !private ["SK", "subscript"]
+- !private ["SB", "pi"]
+- ["So15CALayerDelegateP", "ScrollDirection"]
+- ["So13CATransform3DV", "m34"]
+- !private ["So10CGColorRefa", "components"]
+- !private ["12CoreGraphics7CGFloatV", "pi"]
+- ["So7CGPointV", "init"]
+- !private ["So6CGRectV", "height"]
+- !private ["So6CGRectV", "midX"]
+- !private ["So6CGRectV", "midY"]
+- !private ["So6CGRectV", "width"]
+- ["s7CVarArgP", "ScrollDirection"]
+- !private ["s7CVarArgP", "cgColor"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "pi"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["6Gemini24CircleRotationAnimatableP", "CATransform3DConcat"]
+- ["6Gemini24CircleRotationAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini24CircleRotationAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini24CircleRotationAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini24CircleRotationAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini24CircleRotationAnimatableP", "CGPoint"]
+- ["6Gemini24CircleRotationAnimatableP", "Coordinate"]
+- !private ["6Gemini24CircleRotationAnimatableP", "UIColor"]
+- !private ["6Gemini24CircleRotationAnimatableP", "abs"]
+- !private ["6Gemini24CircleRotationAnimatableP", "alpha"]
+- !private ["6Gemini24CircleRotationAnimatableP", "anchorPoint"]
+- !private ["6Gemini24CircleRotationAnimatableP", "animation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "asin"]
+- !private ["6Gemini24CircleRotationAnimatableP", "calculatedScale"]
+- !private ["6Gemini24CircleRotationAnimatableP", "circleRadius"]
+- ["6Gemini24CircleRotationAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "cornerRadius"]
+- !private ["6Gemini24CircleRotationAnimatableP", "cos"]
+- ["6Gemini24CircleRotationAnimatableP", "cubeAnimation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "cubeDegree"]
+- ["6Gemini24CircleRotationAnimatableP", "customAnimation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini24CircleRotationAnimatableP", "distanceRatio"]
+- !private ["6Gemini24CircleRotationAnimatableP", "easing"]
+- !private ["6Gemini24CircleRotationAnimatableP", "endBackgroundColor"]
+- ["6Gemini24CircleRotationAnimatableP", "isEnabled"]
+- !private ["6Gemini24CircleRotationAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini24CircleRotationAnimatableP", "max"]
+- !private ["6Gemini24CircleRotationAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini24CircleRotationAnimatableP", "min"]
+- !private ["6Gemini24CircleRotationAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini24CircleRotationAnimatableP", "pitchDegree"]
+- !private ["6Gemini24CircleRotationAnimatableP", "pitchEffect"]
+- ["6Gemini24CircleRotationAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "rollDegree"]
+- !private ["6Gemini24CircleRotationAnimatableP", "rollEffect"]
+- ["6Gemini24CircleRotationAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "rotateDirection"]
+- !private ["6Gemini24CircleRotationAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini24CircleRotationAnimatableP", "scale"]
+- ["6Gemini24CircleRotationAnimatableP", "scaleAnimation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini24CircleRotationAnimatableP", "scaleEffect"]
+- !private ["6Gemini24CircleRotationAnimatableP", "scrollDirection"]
+- !private ["6Gemini24CircleRotationAnimatableP", "shadowEffect"]
+- !private ["6Gemini24CircleRotationAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini24CircleRotationAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini24CircleRotationAnimatableP", "translationCoordinate"]
+- !private ["6Gemini24CircleRotationAnimatableP", "yawEffect"]
+- ["6Gemini24CircleRotationAnimatableP", "yawRotationAnimation"]
+- ["6Gemini23CircleRotationDirectionO", "anticlockwise"]
+- ["6Gemini23CircleRotationDirectionO", "clockwise"]
+- !private ["6Gemini23CircleRotationDirectionO", "deinit"]
+- !private ["SN", "map"]
+- !private ["Sl", "count"]
+- !private ["Sl", "map"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "pi"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- ["6Gemini0A14AnimationModelC10CoordinateV", "init"]
+- !private ["6Gemini0A14AnimationModelC10CoordinateV", "x"]
+- !private ["6Gemini0A14AnimationModelC10CoordinateV", "y"]
+- !private ["6Gemini0A14AnimationModelC10CoordinateV", "z"]
+- !private ["6Gemini14CubeAnimatableP", "CATransform3DConcat"]
+- ["6Gemini14CubeAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini14CubeAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini14CubeAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini14CubeAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini14CubeAnimatableP", "CGPoint"]
+- ["6Gemini14CubeAnimatableP", "Coordinate"]
+- !private ["6Gemini14CubeAnimatableP", "UIColor"]
+- !private ["6Gemini14CubeAnimatableP", "abs"]
+- !private ["6Gemini14CubeAnimatableP", "alpha"]
+- !private ["6Gemini14CubeAnimatableP", "anchorPoint"]
+- !private ["6Gemini14CubeAnimatableP", "animation"]
+- !private ["6Gemini14CubeAnimatableP", "asin"]
+- !private ["6Gemini14CubeAnimatableP", "calculatedScale"]
+- !private ["6Gemini14CubeAnimatableP", "circleRadius"]
+- ["6Gemini14CubeAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini14CubeAnimatableP", "cornerRadius"]
+- !private ["6Gemini14CubeAnimatableP", "cos"]
+- ["6Gemini14CubeAnimatableP", "cubeAnimation"]
+- !private ["6Gemini14CubeAnimatableP", "cubeDegree"]
+- ["6Gemini14CubeAnimatableP", "customAnimation"]
+- !private ["6Gemini14CubeAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini14CubeAnimatableP", "distanceRatio"]
+- !private ["6Gemini14CubeAnimatableP", "easing"]
+- !private ["6Gemini14CubeAnimatableP", "endBackgroundColor"]
+- ["6Gemini14CubeAnimatableP", "isEnabled"]
+- !private ["6Gemini14CubeAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini14CubeAnimatableP", "max"]
+- !private ["6Gemini14CubeAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini14CubeAnimatableP", "min"]
+- !private ["6Gemini14CubeAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini14CubeAnimatableP", "pitchDegree"]
+- !private ["6Gemini14CubeAnimatableP", "pitchEffect"]
+- ["6Gemini14CubeAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini14CubeAnimatableP", "rollDegree"]
+- !private ["6Gemini14CubeAnimatableP", "rollEffect"]
+- ["6Gemini14CubeAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini14CubeAnimatableP", "rotateDirection"]
+- !private ["6Gemini14CubeAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini14CubeAnimatableP", "scale"]
+- ["6Gemini14CubeAnimatableP", "scaleAnimation"]
+- !private ["6Gemini14CubeAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini14CubeAnimatableP", "scaleEffect"]
+- !private ["6Gemini14CubeAnimatableP", "scrollDirection"]
+- !private ["6Gemini14CubeAnimatableP", "shadowEffect"]
+- !private ["6Gemini14CubeAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini14CubeAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini14CubeAnimatableP", "translationCoordinate"]
+- !private ["6Gemini14CubeAnimatableP", "yawEffect"]
+- ["6Gemini14CubeAnimatableP", "yawRotationAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "CATransform3DConcat"]
+- ["6Gemini16CustomAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini16CustomAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini16CustomAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini16CustomAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini16CustomAnimatableP", "CGPoint"]
+- ["6Gemini16CustomAnimatableP", "Coordinate"]
+- !private ["6Gemini16CustomAnimatableP", "UIColor"]
+- !private ["6Gemini16CustomAnimatableP", "abs"]
+- !private ["6Gemini16CustomAnimatableP", "alpha"]
+- !private ["6Gemini16CustomAnimatableP", "anchorPoint"]
+- !private ["6Gemini16CustomAnimatableP", "animation"]
+- !private ["6Gemini16CustomAnimatableP", "asin"]
+- !private ["6Gemini16CustomAnimatableP", "calculatedScale"]
+- !private ["6Gemini16CustomAnimatableP", "circleRadius"]
+- ["6Gemini16CustomAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "cornerRadius"]
+- !private ["6Gemini16CustomAnimatableP", "cos"]
+- ["6Gemini16CustomAnimatableP", "cubeAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "cubeDegree"]
+- ["6Gemini16CustomAnimatableP", "customAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini16CustomAnimatableP", "distanceRatio"]
+- !private ["6Gemini16CustomAnimatableP", "easing"]
+- !private ["6Gemini16CustomAnimatableP", "endBackgroundColor"]
+- ["6Gemini16CustomAnimatableP", "isEnabled"]
+- !private ["6Gemini16CustomAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini16CustomAnimatableP", "max"]
+- !private ["6Gemini16CustomAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini16CustomAnimatableP", "min"]
+- !private ["6Gemini16CustomAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini16CustomAnimatableP", "pitchDegree"]
+- !private ["6Gemini16CustomAnimatableP", "pitchEffect"]
+- ["6Gemini16CustomAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "rollDegree"]
+- !private ["6Gemini16CustomAnimatableP", "rollEffect"]
+- ["6Gemini16CustomAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "rotateDirection"]
+- !private ["6Gemini16CustomAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini16CustomAnimatableP", "scale"]
+- ["6Gemini16CustomAnimatableP", "scaleAnimation"]
+- !private ["6Gemini16CustomAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini16CustomAnimatableP", "scaleEffect"]
+- !private ["6Gemini16CustomAnimatableP", "scrollDirection"]
+- !private ["6Gemini16CustomAnimatableP", "shadowEffect"]
+- !private ["6Gemini16CustomAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini16CustomAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini16CustomAnimatableP", "translationCoordinate"]
+- !private ["6Gemini16CustomAnimatableP", "yawEffect"]
+- ["6Gemini16CustomAnimatableP", "yawRotationAnimation"]
+- ["s28CustomDebugStringConvertibleP", "ScrollDirection"]
+- !private ["s28CustomDebugStringConvertibleP", "cgColor"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "midX"]
+- !private ["s28CustomDebugStringConvertibleP", "midY"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "height"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "midX"]
+- !private ["s17CustomReflectableP", "midY"]
+- !private ["s17CustomReflectableP", "pi"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "width"]
+- ["s23CustomStringConvertibleP", "ScrollDirection"]
+- !private ["s23CustomStringConvertibleP", "cgColor"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "pi"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["Se", "count"]
+- !private ["Se", "height"]
+- ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "midX"]
+- !private ["Se", "midY"]
+- !private ["Se", "pi"]
+- !private ["Se", "subscript"]
+- !private ["Se", "width"]
+- !private ["6Gemini16EasingAnimatableP", "CATransform3DConcat"]
+- ["6Gemini16EasingAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini16EasingAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini16EasingAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini16EasingAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini16EasingAnimatableP", "CGPoint"]
+- ["6Gemini16EasingAnimatableP", "Coordinate"]
+- !private ["6Gemini16EasingAnimatableP", "UIColor"]
+- !private ["6Gemini16EasingAnimatableP", "abs"]
+- !private ["6Gemini16EasingAnimatableP", "alpha"]
+- !private ["6Gemini16EasingAnimatableP", "anchorPoint"]
+- !private ["6Gemini16EasingAnimatableP", "animation"]
+- !private ["6Gemini16EasingAnimatableP", "asin"]
+- !private ["6Gemini16EasingAnimatableP", "calculatedScale"]
+- !private ["6Gemini16EasingAnimatableP", "circleRadius"]
+- ["6Gemini16EasingAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini16EasingAnimatableP", "cornerRadius"]
+- !private ["6Gemini16EasingAnimatableP", "cos"]
+- ["6Gemini16EasingAnimatableP", "cubeAnimation"]
+- !private ["6Gemini16EasingAnimatableP", "cubeDegree"]
+- ["6Gemini16EasingAnimatableP", "customAnimation"]
+- !private ["6Gemini16EasingAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini16EasingAnimatableP", "distanceRatio"]
+- !private ["6Gemini16EasingAnimatableP", "easing"]
+- !private ["6Gemini16EasingAnimatableP", "endBackgroundColor"]
+- ["6Gemini16EasingAnimatableP", "isEnabled"]
+- !private ["6Gemini16EasingAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini16EasingAnimatableP", "max"]
+- !private ["6Gemini16EasingAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini16EasingAnimatableP", "min"]
+- !private ["6Gemini16EasingAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini16EasingAnimatableP", "pitchDegree"]
+- !private ["6Gemini16EasingAnimatableP", "pitchEffect"]
+- ["6Gemini16EasingAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini16EasingAnimatableP", "rollDegree"]
+- !private ["6Gemini16EasingAnimatableP", "rollEffect"]
+- ["6Gemini16EasingAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini16EasingAnimatableP", "rotateDirection"]
+- !private ["6Gemini16EasingAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini16EasingAnimatableP", "scale"]
+- ["6Gemini16EasingAnimatableP", "scaleAnimation"]
+- !private ["6Gemini16EasingAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini16EasingAnimatableP", "scaleEffect"]
+- !private ["6Gemini16EasingAnimatableP", "scrollDirection"]
+- !private ["6Gemini16EasingAnimatableP", "shadowEffect"]
+- !private ["6Gemini16EasingAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini16EasingAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini16EasingAnimatableP", "translationCoordinate"]
+- !private ["6Gemini16EasingAnimatableP", "yawEffect"]
+- ["6Gemini16EasingAnimatableP", "yawRotationAnimation"]
+- !private ["SE", "count"]
+- !private ["SE", "height"]
+- ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "midX"]
+- !private ["SE", "midY"]
+- !private ["SE", "pi"]
+- !private ["SE", "subscript"]
+- !private ["SE", "width"]
+- ["SQ", "=="]
+- ["SQ", "ScrollDirection"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "anticlockwise"]
+- !private ["SQ", "cgColor"]
+- ["SQ", "circleRotation"]
+- ["SQ", "clockwise"]
+- !private ["SQ", "components"]
+- !private ["SQ", "count"]
+- ["SQ", "cube"]
+- ["SQ", "custom"]
+- ["SQ", "fadeIn"]
+- ["SQ", "fadeOut"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "height"]
+- ["SQ", "horizontal"]
+- ["SQ", "init"]
+- ["SQ", "linear"]
+- !private ["SQ", "map"]
+- !private ["SQ", "midX"]
+- !private ["SQ", "midY"]
+- ["SQ", "nextFadeIn"]
+- ["SQ", "none"]
+- !private ["SQ", "pi"]
+- ["SQ", "pitchDown"]
+- ["SQ", "pitchRotation"]
+- ["SQ", "pitchUp"]
+- ["SQ", "previousFadeIn"]
+- ["SQ", "reverseSineWave"]
+- ["SQ", "rollDown"]
+- ["SQ", "rollRotation"]
+- ["SQ", "rollUp"]
+- ["SQ", "scale"]
+- ["SQ", "scaleDown"]
+- ["SQ", "scaleUp"]
+- ["SQ", "sineWave"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "value"]
+- ["SQ", "vertical"]
+- !private ["SQ", "width"]
+- ["SQ", "yawDown"]
+- ["SQ", "yawRotation"]
+- ["SQ", "yawUp"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "pi"]
+- !private ["s27ExpressibleByIntegerLiteralP", "pi"]
+- !private ["SF", "pi"]
+- ["6Gemini16GeminScaleEffectO", "scaleDown"]
+- ["6Gemini16GeminScaleEffectO", "scaleUp"]
+- ["6GeminiAAP", "Bool"]
+- !private ["6GeminiAAP", "CATransform3DConcat"]
+- ["6GeminiAAP", "CATransform3DIdentity"]
+- !private ["6GeminiAAP", "CATransform3DRotate"]
+- !private ["6GeminiAAP", "CATransform3DScale"]
+- !private ["6GeminiAAP", "CATransform3DTranslate"]
+- ["6GeminiAAP", "CGPoint"]
+- ["6GeminiAAP", "CircleRotationAnimatable"]
+- ["6GeminiAAP", "Coordinate"]
+- ["6GeminiAAP", "CubeAnimatable"]
+- ["6GeminiAAP", "CustomAnimatable"]
+- ["6GeminiAAP", "PitchRotationAnimatable"]
+- ["6GeminiAAP", "RollRotationAnimatable"]
+- ["6GeminiAAP", "ScaleAnimatable"]
+- !private ["6GeminiAAP", "UIColor"]
+- ["6GeminiAAP", "YawRotationAnimatable"]
+- ["6GeminiAAP", ""]
+- !private ["6GeminiAAP", "abs"]
+- !private ["6GeminiAAP", "alpha"]
+- !private ["6GeminiAAP", "anchorPoint"]
+- !private ["6GeminiAAP", "animation"]
+- !private ["6GeminiAAP", "asin"]
+- !private ["6GeminiAAP", "calculatedScale"]
+- !private ["6GeminiAAP", "circleRadius"]
+- ["6GeminiAAP", "circleRotationAnimation"]
+- !private ["6GeminiAAP", "cornerRadius"]
+- !private ["6GeminiAAP", "cos"]
+- ["6GeminiAAP", "cubeAnimation"]
+- !private ["6GeminiAAP", "cubeDegree"]
+- ["6GeminiAAP", "customAnimation"]
+- !private ["6GeminiAAP", "distanceFromCenter"]
+- !private ["6GeminiAAP", "distanceRatio"]
+- !private ["6GeminiAAP", "easing"]
+- !private ["6GeminiAAP", "endBackgroundColor"]
+- ["6GeminiAAP", "isEnabled"]
+- !private ["6GeminiAAP", "isItemRotationEnabled"]
+- !private ["6GeminiAAP", "max"]
+- !private ["6GeminiAAP", "maxShadowAlpha"]
+- !private ["6GeminiAAP", "min"]
+- !private ["6GeminiAAP", "minShadowAlpha"]
+- !private ["6GeminiAAP", "pitchDegree"]
+- !private ["6GeminiAAP", "pitchEffect"]
+- ["6GeminiAAP", "pitchRotationAnimation"]
+- !private ["6GeminiAAP", "rollDegree"]
+- !private ["6GeminiAAP", "rollEffect"]
+- ["6GeminiAAP", "rollRotationAnimation"]
+- !private ["6GeminiAAP", "rotateDirection"]
+- !private ["6GeminiAAP", "rotationCoordinate"]
+- !private ["6GeminiAAP", "scale"]
+- ["6GeminiAAP", "scaleAnimation"]
+- !private ["6GeminiAAP", "scaleCoordinate"]
+- !private ["6GeminiAAP", "scaleEffect"]
+- !private ["6GeminiAAP", "scrollDirection"]
+- !private ["6GeminiAAP", "shadowEffect"]
+- !private ["6GeminiAAP", "startBackgroundColor"]
+- !private ["6GeminiAAP", "transform3DIdentity"]
+- !private ["6GeminiAAP", "translationCoordinate"]
+- !private ["6GeminiAAP", "yawEffect"]
+- ["6GeminiAAP", "yawRotationAnimation"]
+- ["6Gemini0A9AnimationO", "=="]
+- ["6Gemini0A9AnimationO", "__derived_enum_equals"]
+- ["6Gemini0A9AnimationO", "_rawHashValue"]
+- ["6Gemini0A9AnimationO", "circleRotation"]
+- ["6Gemini0A9AnimationO", "cube"]
+- ["6Gemini0A9AnimationO", "custom"]
+- ["6Gemini0A9AnimationO", "deinit"]
+- ["6Gemini0A9AnimationO", "hash"]
+- ["6Gemini0A9AnimationO", "hashValue"]
+- ["6Gemini0A9AnimationO", "none"]
+- ["6Gemini0A9AnimationO", "pitchRotation"]
+- ["6Gemini0A9AnimationO", "rollRotation"]
+- ["6Gemini0A9AnimationO", "scale"]
+- ["6Gemini0A9AnimationO", "yawRotation"]
+- !private ["6Gemini0A14AnimationModelC", "$__lazy_storage_$_rotationCoordinate"]
+- !private ["6Gemini0A14AnimationModelC", "$__lazy_storage_$_scaleCoordinate"]
+- !private ["6Gemini0A14AnimationModelC", "$__lazy_storage_$_transform3DIdentity"]
+- !private ["6Gemini0A14AnimationModelC", "$__lazy_storage_$_translationCoordinate"]
+- ["6Gemini0A14AnimationModelC", "Bool"]
+- ["6Gemini0A14AnimationModelC", "CATransform3D"]
+- !private ["6Gemini0A14AnimationModelC", "CATransform3DConcat"]
+- ["6Gemini0A14AnimationModelC", "CATransform3DIdentity"]
+- !private ["6Gemini0A14AnimationModelC", "CATransform3DRotate"]
+- !private ["6Gemini0A14AnimationModelC", "CATransform3DScale"]
+- !private ["6Gemini0A14AnimationModelC", "CATransform3DTranslate"]
+- ["6Gemini0A14AnimationModelC", "CGFloat"]
+- ["6Gemini0A14AnimationModelC", "CGPoint"]
+- ["6Gemini0A14AnimationModelC", "CGRect"]
+- ["6Gemini0A14AnimationModelC", "CircleRotationAnimatable"]
+- ["6Gemini0A14AnimationModelC", "CircleRotationDirection"]
+- ["6Gemini0A14AnimationModelC", "Coordinate"]
+- ["6Gemini0A14AnimationModelC", "CubeAnimatable"]
+- ["6Gemini0A14AnimationModelC", "CustomAnimatable"]
+- ["6Gemini0A14AnimationModelC", "GeminScaleEffect"]
+- ["6Gemini0A14AnimationModelC", "GeminiAnimation"]
+- ["6Gemini0A14AnimationModelC", "GeminiEasing"]
+- ["6Gemini0A14AnimationModelC", "PitchRotationAnimatable"]
+- ["6Gemini0A14AnimationModelC", "PitchRotationEffect"]
+- ["6Gemini0A14AnimationModelC", "RollRotationAnimatable"]
+- ["6Gemini0A14AnimationModelC", "RollRotationEffect"]
+- ["6Gemini0A14AnimationModelC", "ScaleAnimatable"]
+- ["6Gemini0A14AnimationModelC", "ShadowEffect"]
+- ["6Gemini0A14AnimationModelC", "UICollectionView"]
+- ["6Gemini0A14AnimationModelC", "UIColor"]
+- ["6Gemini0A14AnimationModelC", "YawRotationAnimatable"]
+- ["6Gemini0A14AnimationModelC", "YawRotationEffect"]
+- !private ["6Gemini0A14AnimationModelC", "abs"]
+- ["6Gemini0A14AnimationModelC", "alpha"]
+- ["6Gemini0A14AnimationModelC", "anchorPoint"]
+- ["6Gemini0A14AnimationModelC", "animation"]
+- !private ["6Gemini0A14AnimationModelC", "asin"]
+- ["6Gemini0A14AnimationModelC", "backgroundColor"]
+- !private ["6Gemini0A14AnimationModelC", "calculatedScale"]
+- ["6Gemini0A14AnimationModelC", "circleRadius"]
+- ["6Gemini0A14AnimationModelC", "circleRotationAnimation"]
+- ["6Gemini0A14AnimationModelC", "cornerRadius"]
+- !private ["6Gemini0A14AnimationModelC", "cos"]
+- ["6Gemini0A14AnimationModelC", "cubeAnimation"]
+- ["6Gemini0A14AnimationModelC", "cubeDegree"]
+- ["6Gemini0A14AnimationModelC", "customAnimation"]
+- ["6Gemini0A14AnimationModelC", "deinit"]
+- ["6Gemini0A14AnimationModelC", "distanceFromCenter"]
+- ["6Gemini0A14AnimationModelC", "distanceRatio"]
+- ["6Gemini0A14AnimationModelC", "easing"]
+- ["6Gemini0A14AnimationModelC", "endBackgroundColor"]
+- ["6Gemini0A14AnimationModelC", "init"]
+- ["6Gemini0A14AnimationModelC", "isEnabled"]
+- ["6Gemini0A14AnimationModelC", "isItemRotationEnabled"]
+- !private ["6Gemini0A14AnimationModelC", "max"]
+- ["6Gemini0A14AnimationModelC", "maxShadowAlpha"]
+- !private ["6Gemini0A14AnimationModelC", "min"]
+- ["6Gemini0A14AnimationModelC", "minShadowAlpha"]
+- ["6Gemini0A14AnimationModelC", "needsCheckDistance"]
+- ["6Gemini0A14AnimationModelC", "pitchDegree"]
+- ["6Gemini0A14AnimationModelC", "pitchEffect"]
+- ["6Gemini0A14AnimationModelC", "pitchRotationAnimation"]
+- ["6Gemini0A14AnimationModelC", "rollDegree"]
+- ["6Gemini0A14AnimationModelC", "rollEffect"]
+- ["6Gemini0A14AnimationModelC", "rollRotationAnimation"]
+- ["6Gemini0A14AnimationModelC", "rotateDirection"]
+- ["6Gemini0A14AnimationModelC", "rotationCoordinate"]
+- ["6Gemini0A14AnimationModelC", "scale"]
+- ["6Gemini0A14AnimationModelC", "scaleAnimation"]
+- ["6Gemini0A14AnimationModelC", "scaleCoordinate"]
+- ["6Gemini0A14AnimationModelC", "scaleEffect"]
+- ["6Gemini0A14AnimationModelC", "scrollDirection"]
+- ["6Gemini0A14AnimationModelC", "shadowAlpha"]
+- ["6Gemini0A14AnimationModelC", "shadowEffect"]
+- ["6Gemini0A14AnimationModelC", "startBackgroundColor"]
+- ["6Gemini0A14AnimationModelC", "transform"]
+- !private ["6Gemini0A14AnimationModelC", "transform3DIdentity"]
+- ["6Gemini0A14AnimationModelC", "translationCoordinate"]
+- ["6Gemini0A14AnimationModelC", "visibleMaxDistance"]
+- ["6Gemini0A14AnimationModelC", "yawDegree"]
+- ["6Gemini0A14AnimationModelC", "yawEffect"]
+- ["6Gemini0A14AnimationModelC", "yawRotationAnimation"]
+- ["6Gemini0A6EasingO", "linear"]
+- !private ["6Gemini0A6EasingO", "value"]
+- ["SH", "=="]
+- ["SH", "ScrollDirection"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "anticlockwise"]
+- !private ["SH", "cgColor"]
+- ["SH", "circleRotation"]
+- ["SH", "clockwise"]
+- !private ["SH", "components"]
+- !private ["SH", "count"]
+- ["SH", "cube"]
+- ["SH", "custom"]
+- ["SH", "fadeIn"]
+- ["SH", "fadeOut"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "horizontal"]
+- !private ["SH", "init"]
+- ["SH", "linear"]
+- !private ["SH", "map"]
+- ["SH", "nextFadeIn"]
+- ["SH", "none"]
+- !private ["SH", "pi"]
+- ["SH", "pitchDown"]
+- ["SH", "pitchRotation"]
+- ["SH", "pitchUp"]
+- ["SH", "previousFadeIn"]
+- ["SH", "reverseSineWave"]
+- ["SH", "rollDown"]
+- ["SH", "rollRotation"]
+- ["SH", "rollUp"]
+- ["SH", "scale"]
+- ["SH", "scaleDown"]
+- ["SH", "scaleUp"]
+- ["SH", "sineWave"]
+- !private ["SH", "subscript"]
+- !private ["SH", "value"]
+- ["SH", "vertical"]
+- ["SH", "yawDown"]
+- ["SH", "yawRotation"]
+- ["SH", "yawUp"]
+- !private ["s6HasherV", "combine"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["So8NSCodingP", "ScrollDirection"]
+- !private ["So8NSCodingP", "cgColor"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "cgColor"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "cgColor"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "cgColor"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- ["So8NSObjectC", "ScrollDirection"]
+- !private ["So8NSObjectC", "cgColor"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectP", "ScrollDirection"]
+- !private ["So8NSObjectP", "cgColor"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So14NSSecureCodingP", "cgColor"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["Sj", "pi"]
+- !private ["6Gemini23PitchRotationAnimatableP", "CATransform3DConcat"]
+- ["6Gemini23PitchRotationAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini23PitchRotationAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini23PitchRotationAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini23PitchRotationAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini23PitchRotationAnimatableP", "CGPoint"]
+- ["6Gemini23PitchRotationAnimatableP", "Coordinate"]
+- !private ["6Gemini23PitchRotationAnimatableP", "UIColor"]
+- !private ["6Gemini23PitchRotationAnimatableP", "abs"]
+- !private ["6Gemini23PitchRotationAnimatableP", "alpha"]
+- !private ["6Gemini23PitchRotationAnimatableP", "anchorPoint"]
+- !private ["6Gemini23PitchRotationAnimatableP", "animation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "asin"]
+- !private ["6Gemini23PitchRotationAnimatableP", "calculatedScale"]
+- !private ["6Gemini23PitchRotationAnimatableP", "circleRadius"]
+- ["6Gemini23PitchRotationAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "cornerRadius"]
+- !private ["6Gemini23PitchRotationAnimatableP", "cos"]
+- ["6Gemini23PitchRotationAnimatableP", "cubeAnimation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "cubeDegree"]
+- ["6Gemini23PitchRotationAnimatableP", "customAnimation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini23PitchRotationAnimatableP", "distanceRatio"]
+- !private ["6Gemini23PitchRotationAnimatableP", "easing"]
+- !private ["6Gemini23PitchRotationAnimatableP", "endBackgroundColor"]
+- ["6Gemini23PitchRotationAnimatableP", "isEnabled"]
+- !private ["6Gemini23PitchRotationAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini23PitchRotationAnimatableP", "max"]
+- !private ["6Gemini23PitchRotationAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini23PitchRotationAnimatableP", "min"]
+- !private ["6Gemini23PitchRotationAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini23PitchRotationAnimatableP", "pitchDegree"]
+- !private ["6Gemini23PitchRotationAnimatableP", "pitchEffect"]
+- ["6Gemini23PitchRotationAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "rollDegree"]
+- !private ["6Gemini23PitchRotationAnimatableP", "rollEffect"]
+- ["6Gemini23PitchRotationAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "rotateDirection"]
+- !private ["6Gemini23PitchRotationAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini23PitchRotationAnimatableP", "scale"]
+- ["6Gemini23PitchRotationAnimatableP", "scaleAnimation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini23PitchRotationAnimatableP", "scaleEffect"]
+- !private ["6Gemini23PitchRotationAnimatableP", "scrollDirection"]
+- !private ["6Gemini23PitchRotationAnimatableP", "shadowEffect"]
+- !private ["6Gemini23PitchRotationAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini23PitchRotationAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini23PitchRotationAnimatableP", "translationCoordinate"]
+- !private ["6Gemini23PitchRotationAnimatableP", "yawEffect"]
+- ["6Gemini23PitchRotationAnimatableP", "yawRotationAnimation"]
+- ["6Gemini19PitchRotationEffectO", "pitchDown"]
+- ["6Gemini19PitchRotationEffectO", "pitchUp"]
+- ["6Gemini19PitchRotationEffectO", "reverseSineWave"]
+- ["6Gemini19PitchRotationEffectO", "sineWave"]
+- !private ["Sk", "count"]
+- !private ["Sk", "map"]
+- !private ["Sk", "subscript"]
+- !private ["SX", "map"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- ["SY", "horizontal"]
+- ["SY", "vertical"]
+- !private ["6Gemini22RollRotationAnimatableP", "CATransform3DConcat"]
+- ["6Gemini22RollRotationAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini22RollRotationAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini22RollRotationAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini22RollRotationAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini22RollRotationAnimatableP", "CGPoint"]
+- ["6Gemini22RollRotationAnimatableP", "Coordinate"]
+- !private ["6Gemini22RollRotationAnimatableP", "UIColor"]
+- !private ["6Gemini22RollRotationAnimatableP", "abs"]
+- !private ["6Gemini22RollRotationAnimatableP", "alpha"]
+- !private ["6Gemini22RollRotationAnimatableP", "anchorPoint"]
+- !private ["6Gemini22RollRotationAnimatableP", "animation"]
+- !private ["6Gemini22RollRotationAnimatableP", "asin"]
+- !private ["6Gemini22RollRotationAnimatableP", "calculatedScale"]
+- !private ["6Gemini22RollRotationAnimatableP", "circleRadius"]
+- ["6Gemini22RollRotationAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini22RollRotationAnimatableP", "cornerRadius"]
+- !private ["6Gemini22RollRotationAnimatableP", "cos"]
+- ["6Gemini22RollRotationAnimatableP", "cubeAnimation"]
+- !private ["6Gemini22RollRotationAnimatableP", "cubeDegree"]
+- ["6Gemini22RollRotationAnimatableP", "customAnimation"]
+- !private ["6Gemini22RollRotationAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini22RollRotationAnimatableP", "distanceRatio"]
+- !private ["6Gemini22RollRotationAnimatableP", "easing"]
+- !private ["6Gemini22RollRotationAnimatableP", "endBackgroundColor"]
+- ["6Gemini22RollRotationAnimatableP", "isEnabled"]
+- !private ["6Gemini22RollRotationAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini22RollRotationAnimatableP", "max"]
+- !private ["6Gemini22RollRotationAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini22RollRotationAnimatableP", "min"]
+- !private ["6Gemini22RollRotationAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini22RollRotationAnimatableP", "pitchDegree"]
+- !private ["6Gemini22RollRotationAnimatableP", "pitchEffect"]
+- ["6Gemini22RollRotationAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini22RollRotationAnimatableP", "rollDegree"]
+- !private ["6Gemini22RollRotationAnimatableP", "rollEffect"]
+- ["6Gemini22RollRotationAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini22RollRotationAnimatableP", "rotateDirection"]
+- !private ["6Gemini22RollRotationAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini22RollRotationAnimatableP", "scale"]
+- ["6Gemini22RollRotationAnimatableP", "scaleAnimation"]
+- !private ["6Gemini22RollRotationAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini22RollRotationAnimatableP", "scaleEffect"]
+- !private ["6Gemini22RollRotationAnimatableP", "scrollDirection"]
+- !private ["6Gemini22RollRotationAnimatableP", "shadowEffect"]
+- !private ["6Gemini22RollRotationAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini22RollRotationAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini22RollRotationAnimatableP", "translationCoordinate"]
+- !private ["6Gemini22RollRotationAnimatableP", "yawEffect"]
+- ["6Gemini22RollRotationAnimatableP", "yawRotationAnimation"]
+- ["6Gemini18RollRotationEffectO", "reverseSineWave"]
+- ["6Gemini18RollRotationEffectO", "rollDown"]
+- ["6Gemini18RollRotationEffectO", "rollUp"]
+- ["6Gemini18RollRotationEffectO", "sineWave"]
+- !private ["6Gemini15ScaleAnimatableP", "CATransform3DConcat"]
+- ["6Gemini15ScaleAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini15ScaleAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini15ScaleAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini15ScaleAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini15ScaleAnimatableP", "CGPoint"]
+- ["6Gemini15ScaleAnimatableP", "Coordinate"]
+- !private ["6Gemini15ScaleAnimatableP", "UIColor"]
+- !private ["6Gemini15ScaleAnimatableP", "abs"]
+- !private ["6Gemini15ScaleAnimatableP", "alpha"]
+- !private ["6Gemini15ScaleAnimatableP", "anchorPoint"]
+- !private ["6Gemini15ScaleAnimatableP", "animation"]
+- !private ["6Gemini15ScaleAnimatableP", "asin"]
+- !private ["6Gemini15ScaleAnimatableP", "calculatedScale"]
+- !private ["6Gemini15ScaleAnimatableP", "circleRadius"]
+- ["6Gemini15ScaleAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini15ScaleAnimatableP", "cornerRadius"]
+- !private ["6Gemini15ScaleAnimatableP", "cos"]
+- ["6Gemini15ScaleAnimatableP", "cubeAnimation"]
+- !private ["6Gemini15ScaleAnimatableP", "cubeDegree"]
+- ["6Gemini15ScaleAnimatableP", "customAnimation"]
+- !private ["6Gemini15ScaleAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini15ScaleAnimatableP", "distanceRatio"]
+- !private ["6Gemini15ScaleAnimatableP", "easing"]
+- !private ["6Gemini15ScaleAnimatableP", "endBackgroundColor"]
+- ["6Gemini15ScaleAnimatableP", "isEnabled"]
+- !private ["6Gemini15ScaleAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini15ScaleAnimatableP", "max"]
+- !private ["6Gemini15ScaleAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini15ScaleAnimatableP", "min"]
+- !private ["6Gemini15ScaleAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini15ScaleAnimatableP", "pitchDegree"]
+- !private ["6Gemini15ScaleAnimatableP", "pitchEffect"]
+- ["6Gemini15ScaleAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini15ScaleAnimatableP", "rollDegree"]
+- !private ["6Gemini15ScaleAnimatableP", "rollEffect"]
+- ["6Gemini15ScaleAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini15ScaleAnimatableP", "rotateDirection"]
+- !private ["6Gemini15ScaleAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini15ScaleAnimatableP", "scale"]
+- ["6Gemini15ScaleAnimatableP", "scaleAnimation"]
+- !private ["6Gemini15ScaleAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini15ScaleAnimatableP", "scaleEffect"]
+- !private ["6Gemini15ScaleAnimatableP", "scrollDirection"]
+- !private ["6Gemini15ScaleAnimatableP", "shadowEffect"]
+- !private ["6Gemini15ScaleAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini15ScaleAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini15ScaleAnimatableP", "translationCoordinate"]
+- !private ["6Gemini15ScaleAnimatableP", "yawEffect"]
+- ["6Gemini15ScaleAnimatableP", "yawRotationAnimation"]
+- ["So31UICollectionViewScrollDirectionV", "horizontal"]
+- ["So31UICollectionViewScrollDirectionV", "vertical"]
+- !private ["ST", "count"]
+- !private ["ST", "map"]
+- !private ["ST", "subscript"]
+- ["6Gemini12ShadowEffectO", "fadeIn"]
+- ["6Gemini12ShadowEffectO", "fadeOut"]
+- ["6Gemini12ShadowEffectO", "nextFadeIn"]
+- ["6Gemini12ShadowEffectO", "none"]
+- ["6Gemini12ShadowEffectO", "previousFadeIn"]
+- !private ["s13SignedNumericP", "pi"]
+- !private ["Sx", "pi"]
+- ["So29UIAccessibilityIdentificationP", "ScrollDirection"]
+- ["So12UIAppearanceP", "ScrollDirection"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "CATransform3DConcat"]
+- ["6Gemini22UIAppearanceAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini22UIAppearanceAnimatableP", "CGPoint"]
+- ["6Gemini22UIAppearanceAnimatableP", "Coordinate"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "UIColor"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "abs"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "alpha"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "anchorPoint"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "animation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "asin"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "calculatedScale"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "circleRadius"]
+- ["6Gemini22UIAppearanceAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "cornerRadius"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "cos"]
+- ["6Gemini22UIAppearanceAnimatableP", "cubeAnimation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "cubeDegree"]
+- ["6Gemini22UIAppearanceAnimatableP", "customAnimation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "distanceRatio"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "easing"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "endBackgroundColor"]
+- ["6Gemini22UIAppearanceAnimatableP", "isEnabled"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "max"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "min"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "pitchDegree"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "pitchEffect"]
+- ["6Gemini22UIAppearanceAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "rollDegree"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "rollEffect"]
+- ["6Gemini22UIAppearanceAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "rotateDirection"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "scale"]
+- ["6Gemini22UIAppearanceAnimatableP", "scaleAnimation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "scaleEffect"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "scrollDirection"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "shadowEffect"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "translationCoordinate"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "yawEffect"]
+- ["6Gemini22UIAppearanceAnimatableP", "yawRotationAnimation"]
+- ["So21UIAppearanceContainerP", "ScrollDirection"]
+- ["So16UICollectionViewC", "ScrollDirection"]
+- !private ["So7UIColorC", "cgColor"]
+- !private ["So7UIColorC", "init"]
+- ["So17UICoordinateSpaceP", "ScrollDirection"]
+- ["So23UIDataSourceTranslatingP", "ScrollDirection"]
+- ["So13UIDynamicItemP", "ScrollDirection"]
+- ["So18UIFocusEnvironmentP", "ScrollDirection"]
+- ["So11UIFocusItemP", "ScrollDirection"]
+- ["So20UIFocusItemContainerP", "ScrollDirection"]
+- ["So30UIFocusItemScrollableContainerP", "ScrollDirection"]
+- ["So24UILargeContentViewerItemP", "ScrollDirection"]
+- ["So30UIPasteConfigurationSupportingP", "ScrollDirection"]
+- ["So11UIResponderC", "ScrollDirection"]
+- ["So30UIResponderStandardEditActionsP", "ScrollDirection"]
+- ["So12UIScrollViewC", "ScrollDirection"]
+- ["So35UISpringLoadedInteractionSupportingP", "ScrollDirection"]
+- ["So18UITraitEnvironmentP", "ScrollDirection"]
+- ["So23UIUserActivityRestoringP", "ScrollDirection"]
+- ["So6UIViewC", "ScrollDirection"]
+- !private ["6Gemini21YawRotationAnimatableP", "CATransform3DConcat"]
+- ["6Gemini21YawRotationAnimatableP", "CATransform3DIdentity"]
+- !private ["6Gemini21YawRotationAnimatableP", "CATransform3DRotate"]
+- !private ["6Gemini21YawRotationAnimatableP", "CATransform3DScale"]
+- !private ["6Gemini21YawRotationAnimatableP", "CATransform3DTranslate"]
+- ["6Gemini21YawRotationAnimatableP", "CGPoint"]
+- ["6Gemini21YawRotationAnimatableP", "Coordinate"]
+- !private ["6Gemini21YawRotationAnimatableP", "UIColor"]
+- !private ["6Gemini21YawRotationAnimatableP", "abs"]
+- !private ["6Gemini21YawRotationAnimatableP", "alpha"]
+- !private ["6Gemini21YawRotationAnimatableP", "anchorPoint"]
+- !private ["6Gemini21YawRotationAnimatableP", "animation"]
+- !private ["6Gemini21YawRotationAnimatableP", "asin"]
+- !private ["6Gemini21YawRotationAnimatableP", "calculatedScale"]
+- !private ["6Gemini21YawRotationAnimatableP", "circleRadius"]
+- ["6Gemini21YawRotationAnimatableP", "circleRotationAnimation"]
+- !private ["6Gemini21YawRotationAnimatableP", "cornerRadius"]
+- !private ["6Gemini21YawRotationAnimatableP", "cos"]
+- ["6Gemini21YawRotationAnimatableP", "cubeAnimation"]
+- !private ["6Gemini21YawRotationAnimatableP", "cubeDegree"]
+- ["6Gemini21YawRotationAnimatableP", "customAnimation"]
+- !private ["6Gemini21YawRotationAnimatableP", "distanceFromCenter"]
+- !private ["6Gemini21YawRotationAnimatableP", "distanceRatio"]
+- !private ["6Gemini21YawRotationAnimatableP", "easing"]
+- !private ["6Gemini21YawRotationAnimatableP", "endBackgroundColor"]
+- ["6Gemini21YawRotationAnimatableP", "isEnabled"]
+- !private ["6Gemini21YawRotationAnimatableP", "isItemRotationEnabled"]
+- !private ["6Gemini21YawRotationAnimatableP", "max"]
+- !private ["6Gemini21YawRotationAnimatableP", "maxShadowAlpha"]
+- !private ["6Gemini21YawRotationAnimatableP", "min"]
+- !private ["6Gemini21YawRotationAnimatableP", "minShadowAlpha"]
+- !private ["6Gemini21YawRotationAnimatableP", "pitchDegree"]
+- !private ["6Gemini21YawRotationAnimatableP", "pitchEffect"]
+- ["6Gemini21YawRotationAnimatableP", "pitchRotationAnimation"]
+- !private ["6Gemini21YawRotationAnimatableP", "rollDegree"]
+- !private ["6Gemini21YawRotationAnimatableP", "rollEffect"]
+- ["6Gemini21YawRotationAnimatableP", "rollRotationAnimation"]
+- !private ["6Gemini21YawRotationAnimatableP", "rotateDirection"]
+- !private ["6Gemini21YawRotationAnimatableP", "rotationCoordinate"]
+- !private ["6Gemini21YawRotationAnimatableP", "scale"]
+- ["6Gemini21YawRotationAnimatableP", "scaleAnimation"]
+- !private ["6Gemini21YawRotationAnimatableP", "scaleCoordinate"]
+- !private ["6Gemini21YawRotationAnimatableP", "scaleEffect"]
+- !private ["6Gemini21YawRotationAnimatableP", "scrollDirection"]
+- !private ["6Gemini21YawRotationAnimatableP", "shadowEffect"]
+- !private ["6Gemini21YawRotationAnimatableP", "startBackgroundColor"]
+- !private ["6Gemini21YawRotationAnimatableP", "transform3DIdentity"]
+- !private ["6Gemini21YawRotationAnimatableP", "translationCoordinate"]
+- !private ["6Gemini21YawRotationAnimatableP", "yawEffect"]
+- ["6Gemini21YawRotationAnimatableP", "yawRotationAnimation"]
+- ["6Gemini17YawRotationEffectO", "reverseSineWave"]
+- ["6Gemini17YawRotationEffectO", "sineWave"]
+- ["6Gemini17YawRotationEffectO", "yawDown"]
+- ["6Gemini17YawRotationEffectO", "yawUp"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["14CoreFoundation9_CFObjectP", "components"]
+- !private ["12CoreGraphics22_CGColorInitTrampolineP", "components"]
+- !private ["s15_CVarArgAlignedP", "pi"]
+- !private ["s22_CVarArgPassedAsDoubleP", "pi"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "height"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "midX"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "midY"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s26_ExpressibleByColorLiteralP", "cgColor"]
+- !private ["s26_ExpressibleByColorLiteralP", "components"]
+- !private ["s26_ExpressibleByColorLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ScrollDirection"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cgColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ScrollDirection"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cgColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "m34"]
+- !private ["s21_ObjectiveCBridgeableP", "midX"]
+- !private ["s21_ObjectiveCBridgeableP", "midY"]
+- !private ["s21_ObjectiveCBridgeableP", "pi"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "ScrollDirection"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "SK"
+- !private "SB"
+- "So15CALayerDelegateP"
+- "So13CATransform3DV"
+- !private "So10CGColorRefa"
+- !private "12CoreGraphics7CGFloatV"
+- "So7CGPointV"
+- !private "So6CGRectV"
+- "s7CVarArgP"
+- "6Gemini24CircleRotationAnimatableP"
+- "6Gemini23CircleRotationDirectionO"
+- !private "SN"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "6Gemini0A14AnimationModelC10CoordinateV"
+- "6Gemini14CubeAnimatableP"
+- "6Gemini16CustomAnimatableP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- "6Gemini16EasingAnimatableP"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- "6Gemini16GeminScaleEffectO"
+- "6GeminiAAP"
+- "6Gemini0A9AnimationO"
+- "6Gemini0A14AnimationModelC"
+- "6Gemini0A6EasingO"
+- "SH"
+- !private "s6HasherV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- "6Gemini23PitchRotationAnimatableP"
+- "6Gemini19PitchRotationEffectO"
+- !private "Sk"
+- !private "SX"
+- !private "Sm"
+- "SY"
+- "6Gemini22RollRotationAnimatableP"
+- "6Gemini18RollRotationEffectO"
+- "6Gemini15ScaleAnimatableP"
+- "So31UICollectionViewScrollDirectionV"
+- !private "ST"
+- "6Gemini12ShadowEffectO"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "6Gemini22UIAppearanceAnimatableP"
+- "So21UIAppearanceContainerP"
+- "So16UICollectionViewC"
+- !private "So7UIColorC"
+- "So17UICoordinateSpaceP"
+- "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIFocusItemScrollableContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "6Gemini21YawRotationAnimatableP"
+- "6Gemini17YawRotationEffectO"
+- !private "s14_ArrayProtocolP"
+- !private "14CoreFoundation9_CFObjectP"
+- !private "12CoreGraphics22_CGColorInitTrampolineP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Target Support Files/Gemini/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/Gemini.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "955a20df876ed5794a9d8e49a669011a"

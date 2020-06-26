@@ -1,0 +1,188 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CustomAnimatable"
+provides-nominal:
+- "6Gemini0A14AnimationModelC"
+- "6Gemini0A14AnimationModelC10CoordinateV"
+- "6Gemini16CustomAnimatableP"
+provides-member:
+- ["6Gemini0A14AnimationModelC", ""]
+- ["6Gemini0A14AnimationModelC10CoordinateV", ""]
+- ["6Gemini16CustomAnimatableP", ""]
+- ["6Gemini0A14AnimationModelC", "Coordinate"]
+provides-dynamic-lookup:
+- "anchorPoint"
+- "rotationAngle"
+- "scale"
+- "scaleEffect"
+- "translation"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGFloat"
+- "CGPoint"
+- "CustomAnimatable"
+- "EasingAnimatable"
+- "FloatLiteralType"
+- "GeminScaleEffect"
+- "GeminiAnimationModel"
+- "IntegerLiteralType"
+- "UIAppearanceAnimatable"
+depends-member:
+- ["6Gemini24CircleRotationAnimatableP", "anchorPoint"]
+- ["6Gemini24CircleRotationAnimatableP", "rotationAngle"]
+- !private ["6Gemini24CircleRotationAnimatableP", "rotationCoordinate"]
+- ["6Gemini24CircleRotationAnimatableP", "scale"]
+- !private ["6Gemini24CircleRotationAnimatableP", "scaleCoordinate"]
+- ["6Gemini24CircleRotationAnimatableP", "scaleEffect"]
+- ["6Gemini24CircleRotationAnimatableP", "translation"]
+- !private ["6Gemini24CircleRotationAnimatableP", "translationCoordinate"]
+- ["6Gemini0A14AnimationModelC10CoordinateV", "CGFloat"]
+- ["6Gemini0A14AnimationModelC10CoordinateV", "init"]
+- ["6Gemini0A14AnimationModelC10CoordinateV", "x"]
+- ["6Gemini0A14AnimationModelC10CoordinateV", "y"]
+- ["6Gemini0A14AnimationModelC10CoordinateV", "z"]
+- ["6Gemini14CubeAnimatableP", "anchorPoint"]
+- ["6Gemini14CubeAnimatableP", "rotationAngle"]
+- !private ["6Gemini14CubeAnimatableP", "rotationCoordinate"]
+- ["6Gemini14CubeAnimatableP", "scale"]
+- !private ["6Gemini14CubeAnimatableP", "scaleCoordinate"]
+- ["6Gemini14CubeAnimatableP", "scaleEffect"]
+- ["6Gemini14CubeAnimatableP", "translation"]
+- !private ["6Gemini14CubeAnimatableP", "translationCoordinate"]
+- ["6Gemini16CustomAnimatableP", "CGFloat"]
+- ["6Gemini16CustomAnimatableP", "CGPoint"]
+- ["6Gemini16CustomAnimatableP", "CustomAnimatable"]
+- ["6Gemini16CustomAnimatableP", "GeminScaleEffect"]
+- ["6Gemini16CustomAnimatableP", ""]
+- ["6Gemini16CustomAnimatableP", "anchorPoint"]
+- ["6Gemini16CustomAnimatableP", "rotationAngle"]
+- !private ["6Gemini16CustomAnimatableP", "rotationCoordinate"]
+- ["6Gemini16CustomAnimatableP", "scale"]
+- !private ["6Gemini16CustomAnimatableP", "scaleCoordinate"]
+- ["6Gemini16CustomAnimatableP", "scaleEffect"]
+- ["6Gemini16CustomAnimatableP", "translation"]
+- !private ["6Gemini16CustomAnimatableP", "translationCoordinate"]
+- ["6Gemini16EasingAnimatableP", "CGFloat"]
+- ["6Gemini16EasingAnimatableP", "CGPoint"]
+- ["6Gemini16EasingAnimatableP", "CustomAnimatable"]
+- ["6Gemini16EasingAnimatableP", "GeminScaleEffect"]
+- ["6Gemini16EasingAnimatableP", ""]
+- ["6Gemini16EasingAnimatableP", "anchorPoint"]
+- ["6Gemini16EasingAnimatableP", "rotationAngle"]
+- !private ["6Gemini16EasingAnimatableP", "rotationCoordinate"]
+- ["6Gemini16EasingAnimatableP", "scale"]
+- !private ["6Gemini16EasingAnimatableP", "scaleCoordinate"]
+- ["6Gemini16EasingAnimatableP", "scaleEffect"]
+- ["6Gemini16EasingAnimatableP", "translation"]
+- !private ["6Gemini16EasingAnimatableP", "translationCoordinate"]
+- ["6GeminiAAP", "anchorPoint"]
+- ["6GeminiAAP", "rotationAngle"]
+- !private ["6GeminiAAP", "rotationCoordinate"]
+- ["6GeminiAAP", "scale"]
+- !private ["6GeminiAAP", "scaleCoordinate"]
+- ["6GeminiAAP", "scaleEffect"]
+- ["6GeminiAAP", "translation"]
+- !private ["6GeminiAAP", "translationCoordinate"]
+- ["6Gemini0A14AnimationModelC", "CGFloat"]
+- ["6Gemini0A14AnimationModelC", "CGPoint"]
+- ["6Gemini0A14AnimationModelC", "Coordinate"]
+- ["6Gemini0A14AnimationModelC", "CustomAnimatable"]
+- ["6Gemini0A14AnimationModelC", "GeminScaleEffect"]
+- ["6Gemini0A14AnimationModelC", "anchorPoint"]
+- ["6Gemini0A14AnimationModelC", "deinit"]
+- ["6Gemini0A14AnimationModelC", "rotationAngle"]
+- !private ["6Gemini0A14AnimationModelC", "rotationCoordinate"]
+- ["6Gemini0A14AnimationModelC", "scale"]
+- !private ["6Gemini0A14AnimationModelC", "scaleCoordinate"]
+- ["6Gemini0A14AnimationModelC", "scaleEffect"]
+- ["6Gemini0A14AnimationModelC", "translation"]
+- !private ["6Gemini0A14AnimationModelC", "translationCoordinate"]
+- ["6Gemini23PitchRotationAnimatableP", "anchorPoint"]
+- ["6Gemini23PitchRotationAnimatableP", "rotationAngle"]
+- !private ["6Gemini23PitchRotationAnimatableP", "rotationCoordinate"]
+- ["6Gemini23PitchRotationAnimatableP", "scale"]
+- !private ["6Gemini23PitchRotationAnimatableP", "scaleCoordinate"]
+- ["6Gemini23PitchRotationAnimatableP", "scaleEffect"]
+- ["6Gemini23PitchRotationAnimatableP", "translation"]
+- !private ["6Gemini23PitchRotationAnimatableP", "translationCoordinate"]
+- ["6Gemini22RollRotationAnimatableP", "anchorPoint"]
+- ["6Gemini22RollRotationAnimatableP", "rotationAngle"]
+- !private ["6Gemini22RollRotationAnimatableP", "rotationCoordinate"]
+- ["6Gemini22RollRotationAnimatableP", "scale"]
+- !private ["6Gemini22RollRotationAnimatableP", "scaleCoordinate"]
+- ["6Gemini22RollRotationAnimatableP", "scaleEffect"]
+- ["6Gemini22RollRotationAnimatableP", "translation"]
+- !private ["6Gemini22RollRotationAnimatableP", "translationCoordinate"]
+- ["6Gemini15ScaleAnimatableP", "anchorPoint"]
+- ["6Gemini15ScaleAnimatableP", "rotationAngle"]
+- !private ["6Gemini15ScaleAnimatableP", "rotationCoordinate"]
+- ["6Gemini15ScaleAnimatableP", "scale"]
+- !private ["6Gemini15ScaleAnimatableP", "scaleCoordinate"]
+- ["6Gemini15ScaleAnimatableP", "scaleEffect"]
+- ["6Gemini15ScaleAnimatableP", "translation"]
+- !private ["6Gemini15ScaleAnimatableP", "translationCoordinate"]
+- ["6Gemini22UIAppearanceAnimatableP", "CGFloat"]
+- ["6Gemini22UIAppearanceAnimatableP", "CGPoint"]
+- ["6Gemini22UIAppearanceAnimatableP", "CustomAnimatable"]
+- ["6Gemini22UIAppearanceAnimatableP", "GeminScaleEffect"]
+- ["6Gemini22UIAppearanceAnimatableP", ""]
+- ["6Gemini22UIAppearanceAnimatableP", "anchorPoint"]
+- ["6Gemini22UIAppearanceAnimatableP", "rotationAngle"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "rotationCoordinate"]
+- ["6Gemini22UIAppearanceAnimatableP", "scale"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "scaleCoordinate"]
+- ["6Gemini22UIAppearanceAnimatableP", "scaleEffect"]
+- ["6Gemini22UIAppearanceAnimatableP", "translation"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "translationCoordinate"]
+- ["6Gemini21YawRotationAnimatableP", "anchorPoint"]
+- ["6Gemini21YawRotationAnimatableP", "rotationAngle"]
+- !private ["6Gemini21YawRotationAnimatableP", "rotationCoordinate"]
+- ["6Gemini21YawRotationAnimatableP", "scale"]
+- !private ["6Gemini21YawRotationAnimatableP", "scaleCoordinate"]
+- ["6Gemini21YawRotationAnimatableP", "scaleEffect"]
+- ["6Gemini21YawRotationAnimatableP", "translation"]
+- !private ["6Gemini21YawRotationAnimatableP", "translationCoordinate"]
+depends-nominal:
+- "6Gemini24CircleRotationAnimatableP"
+- "6Gemini0A14AnimationModelC10CoordinateV"
+- "6Gemini14CubeAnimatableP"
+- "6Gemini16CustomAnimatableP"
+- "6Gemini16EasingAnimatableP"
+- "6GeminiAAP"
+- "6Gemini0A14AnimationModelC"
+- "6Gemini23PitchRotationAnimatableP"
+- "6Gemini22RollRotationAnimatableP"
+- "6Gemini15ScaleAnimatableP"
+- "6Gemini22UIAppearanceAnimatableP"
+- "6Gemini21YawRotationAnimatableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Target Support Files/Gemini/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/Gemini.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "bb898c8533c46e2b33e62db30045a2d6"

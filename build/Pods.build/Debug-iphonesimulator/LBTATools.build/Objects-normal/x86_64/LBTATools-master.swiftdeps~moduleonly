@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "6c1a52036d511cbbf81159e30447ea20"
+build_time: [1590531232, 439396000]
+inputs:
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/AnchoredConstraints.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/AspectFitImageView.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/UIKitSubclasses/CircularImageView.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/IndentedTextField.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Form/LBTAFormController.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/ListController/LBTAListCell.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/ListController/LBTAListController.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/ListController/LBTAListHeaderController.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/ListController/LBTAListHeaderFooterController.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/LBTATools/LBTATools.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UIButton.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/UIColor+Helpers.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UILabel.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UIStackView.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UITextField+Tools.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UITextView.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UIView+Layout.swift": [1587414365, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/LBTATools/Source/Extensions/UIView+Stacking.swift": [1587414365, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "0a4609904a8ded0306fc8808630c440f"
+build_time: [1590531226, 334863000]
+inputs:
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/KeyboardObserver/KeyboardObserver/KeyboardObserver.swift": [1587573736, 0]

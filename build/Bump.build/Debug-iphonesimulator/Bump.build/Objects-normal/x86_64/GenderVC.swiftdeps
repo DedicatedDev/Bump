@@ -1,0 +1,347 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GenderVC"
+provides-nominal:
+- "4Bump8GenderVCC"
+provides-member:
+- ["4Bump8GenderVCC", ""]
+provides-dynamic-lookup:
+- "manBtn"
+- "manBtnTapped"
+- "viewDidLoad"
+- "womanBtn"
+- "womanBtnTapped"
+depends-top-level:
+- !private "!"
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- "GenderVC"
+- !private "IntegerLiteralType"
+- "UIButton"
+- "UIViewController"
+depends-member:
+- !private ["So12CACornerMaskV", "layerMaxXMaxYCorner"]
+- !private ["So12CACornerMaskV", "layerMaxXMinYCorner"]
+- !private ["So12CACornerMaskV", "layerMinXMaxYCorner"]
+- !private ["So12CACornerMaskV", "layerMinXMinYCorner"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "maskedCorners"]
+- !private ["So15CALayerDelegateP", "isSelected"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "maskedCorners"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "isSelected"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "manBtn"]
+- !private ["s7CVarArgP", "maskedCorners"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "womanBtn"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "isSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "manBtn"]
+- !private ["s28CustomDebugStringConvertibleP", "maskedCorners"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "womanBtn"]
+- !private ["s17CustomReflectableP", "isSelected"]
+- !private ["s17CustomReflectableP", "layer"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "isSelected"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "manBtn"]
+- !private ["s23CustomStringConvertibleP", "maskedCorners"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "womanBtn"]
+- !private ["Se", "isSelected"]
+- !private ["Se", "layer"]
+- !private ["SE", "isSelected"]
+- !private ["SE", "layer"]
+- ["SQ", ""]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "isSelected"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "layerMaxXMaxYCorner"]
+- !private ["SQ", "layerMaxXMinYCorner"]
+- !private ["SQ", "layerMinXMaxYCorner"]
+- !private ["SQ", "layerMinXMinYCorner"]
+- !private ["SQ", "manBtn"]
+- !private ["SQ", "maskedCorners"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "womanBtn"]
+- !private ["s25ExpressibleByArrayLiteralP", "layerMaxXMaxYCorner"]
+- !private ["s25ExpressibleByArrayLiteralP", "layerMaxXMinYCorner"]
+- !private ["s25ExpressibleByArrayLiteralP", "layerMinXMaxYCorner"]
+- !private ["s25ExpressibleByArrayLiteralP", "layerMinXMinYCorner"]
+- !private ["s23ExpressibleByNilLiteralP", "isSelected"]
+- !private ["s23ExpressibleByNilLiteralP", "layer"]
+- ["4Bump8GenderVCC", "UIButton"]
+- ["4Bump8GenderVCC", "deinit"]
+- ["4Bump8GenderVCC", "init"]
+- ["4Bump8GenderVCC", "manBtn"]
+- ["4Bump8GenderVCC", "manBtnTapped"]
+- ["4Bump8GenderVCC", "viewDidLoad"]
+- ["4Bump8GenderVCC", "womanBtn"]
+- ["4Bump8GenderVCC", "womanBtnTapped"]
+- ["SH", ""]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "isSelected"]
+- !private ["SH", "layer"]
+- !private ["SH", "manBtn"]
+- !private ["SH", "maskedCorners"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "womanBtn"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "isSelected"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "manBtn"]
+- !private ["So8NSCodingP", "maskedCorners"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "womanBtn"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "manBtn"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "womanBtn"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isSelected"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "manBtn"]
+- ["So8NSObjectC", "manBtnTapped"]
+- !private ["So8NSObjectC", "maskedCorners"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "womanBtn"]
+- ["So8NSObjectC", "womanBtnTapped"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "isSelected"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "manBtn"]
+- !private ["So8NSObjectP", "maskedCorners"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "womanBtn"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "maskedCorners"]
+- !private ["s9OptionSetP", "layerMaxXMaxYCorner"]
+- !private ["s9OptionSetP", "layerMaxXMinYCorner"]
+- !private ["s9OptionSetP", "layerMinXMaxYCorner"]
+- !private ["s9OptionSetP", "layerMinXMinYCorner"]
+- !private ["Sq", "isSelected"]
+- !private ["Sq", "layer"]
+- !private ["SY", "layerMaxXMaxYCorner"]
+- !private ["SY", "layerMaxXMinYCorner"]
+- !private ["SY", "layerMinXMaxYCorner"]
+- !private ["SY", "layerMinXMinYCorner"]
+- !private ["s10SetAlgebraP", "layerMaxXMaxYCorner"]
+- !private ["s10SetAlgebraP", "layerMaxXMinYCorner"]
+- !private ["s10SetAlgebraP", "layerMinXMaxYCorner"]
+- !private ["s10SetAlgebraP", "layerMinXMinYCorner"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "isSelected"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "isSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So12UIAppearanceP", "isSelected"]
+- !private ["So12UIAppearanceP", "layer"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "isSelected"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "manBtn"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "womanBtn"]
+- !private ["So8UIButtonC", "isSelected"]
+- !private ["So8UIButtonC", "layer"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "manBtn"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "womanBtn"]
+- !private ["So9UIControlC", "isSelected"]
+- !private ["So9UIControlC", "layer"]
+- !private ["So17UICoordinateSpaceP", "isSelected"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So13UIDynamicItemP", "isSelected"]
+- !private ["So13UIDynamicItemP", "layer"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "isSelected"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "manBtn"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "womanBtn"]
+- !private ["So11UIFocusItemP", "isSelected"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So20UIFocusItemContainerP", "isSelected"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So24UILargeContentViewerItemP", "isSelected"]
+- !private ["So24UILargeContentViewerItemP", "layer"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "isSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "manBtn"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "womanBtn"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isSelected"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "manBtn"]
+- ["So11UIResponderC", "manBtnTapped"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "womanBtn"]
+- ["So11UIResponderC", "womanBtnTapped"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "isSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "manBtn"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "womanBtn"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "isSelected"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "manBtn"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "womanBtn"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "isSelected"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "manBtn"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "womanBtn"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "isSelected"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "manBtn"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "womanBtn"]
+- !private ["So6UIViewC", "isSelected"]
+- !private ["So6UIViewC", "layer"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "manBtn"]
+- ["So16UIViewControllerC", "manBtnTapped"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "womanBtn"]
+- ["So16UIViewControllerC", "womanBtnTapped"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "manBtn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "maskedCorners"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "womanBtn"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cornerRadius"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isSelected"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "manBtn"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "maskedCorners"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "womanBtn"]
+- !private ["s21_ObjectiveCBridgeableP", "isSelected"]
+- !private ["s21_ObjectiveCBridgeableP", "layer"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isSelected"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
+depends-nominal:
+- !private "So12CACornerMaskV"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "4Bump8GenderVCC"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- !private "s10SetAlgebraP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/Gemini/Gemini.framework/Modules/Gemini.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/KeyboardObserver/KeyboardObserver.framework/Modules/KeyboardObserver.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/Gemini/Gemini.framework/Headers/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/KeyboardObserver/KeyboardObserver.framework/Headers/KeyboardObserver-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/Gemini/Gemini.framework/Headers/Gemini-Swift.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/KeyboardObserver/KeyboardObserver.framework/Headers/KeyboardObserver-Swift.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/Gemini/Gemini.framework/Modules/module.modulemap"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/KeyboardObserver/KeyboardObserver.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4b7da34767ffe6e65e6eeda92601797c"

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Bump/Pods-Bump-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Gemini/Gemini.framework
+${BUILT_PRODUCTS_DIR}/KeyboardObserver/KeyboardObserver.framework
+${BUILT_PRODUCTS_DIR}/LBTATools/LBTATools.framework

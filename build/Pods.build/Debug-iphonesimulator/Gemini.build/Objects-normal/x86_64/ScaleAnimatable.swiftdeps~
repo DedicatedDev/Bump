@@ -1,0 +1,135 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GeminScaleEffect"
+- "ScaleAnimatable"
+provides-nominal:
+- "6Gemini16GeminScaleEffectO"
+- "6Gemini15ScaleAnimatableP"
+- "6Gemini0A14AnimationModelC"
+provides-member:
+- ["6Gemini16GeminScaleEffectO", ""]
+- ["6Gemini15ScaleAnimatableP", ""]
+- ["6Gemini0A14AnimationModelC", ""]
+provides-dynamic-lookup:
+- "scale"
+- "scaleEffect"
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "CGFloat"
+- "EasingAnimatable"
+- !private "FloatLiteralType"
+- "GeminScaleEffect"
+- "GeminiAnimationModel"
+- !private "IntegerLiteralType"
+- "ScaleAnimatable"
+- "Self"
+depends-member:
+- ["6Gemini24CircleRotationAnimatableP", "Self"]
+- ["6Gemini24CircleRotationAnimatableP", "scale"]
+- ["6Gemini24CircleRotationAnimatableP", "scaleEffect"]
+- ["6Gemini14CubeAnimatableP", "Self"]
+- ["6Gemini14CubeAnimatableP", "scale"]
+- ["6Gemini14CubeAnimatableP", "scaleEffect"]
+- ["6Gemini16CustomAnimatableP", "Self"]
+- ["6Gemini16CustomAnimatableP", "scale"]
+- ["6Gemini16CustomAnimatableP", "scaleEffect"]
+- ["6Gemini16EasingAnimatableP", "CGFloat"]
+- ["6Gemini16EasingAnimatableP", "GeminScaleEffect"]
+- ["6Gemini16EasingAnimatableP", "Self"]
+- ["6Gemini16EasingAnimatableP", ""]
+- ["6Gemini16EasingAnimatableP", "scale"]
+- ["6Gemini16EasingAnimatableP", "scaleEffect"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["6Gemini16GeminScaleEffectO", "=="]
+- ["6Gemini16GeminScaleEffectO", "__derived_enum_equals"]
+- ["6Gemini16GeminScaleEffectO", "_rawHashValue"]
+- ["6Gemini16GeminScaleEffectO", "deinit"]
+- ["6Gemini16GeminScaleEffectO", "hash"]
+- ["6Gemini16GeminScaleEffectO", "hashValue"]
+- ["6Gemini16GeminScaleEffectO", "scaleDown"]
+- ["6Gemini16GeminScaleEffectO", "scaleUp"]
+- ["6GeminiAAP", "Self"]
+- ["6GeminiAAP", "scale"]
+- ["6GeminiAAP", "scaleEffect"]
+- ["6Gemini0A14AnimationModelC", "CGFloat"]
+- ["6Gemini0A14AnimationModelC", "GeminScaleEffect"]
+- ["6Gemini0A14AnimationModelC", "Self"]
+- ["6Gemini0A14AnimationModelC", "deinit"]
+- ["6Gemini0A14AnimationModelC", "scale"]
+- ["6Gemini0A14AnimationModelC", "scaleEffect"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+- ["6Gemini23PitchRotationAnimatableP", "Self"]
+- ["6Gemini23PitchRotationAnimatableP", "scale"]
+- ["6Gemini23PitchRotationAnimatableP", "scaleEffect"]
+- ["6Gemini22RollRotationAnimatableP", "Self"]
+- ["6Gemini22RollRotationAnimatableP", "scale"]
+- ["6Gemini22RollRotationAnimatableP", "scaleEffect"]
+- ["6Gemini15ScaleAnimatableP", "CGFloat"]
+- ["6Gemini15ScaleAnimatableP", "GeminScaleEffect"]
+- ["6Gemini15ScaleAnimatableP", "Self"]
+- ["6Gemini15ScaleAnimatableP", ""]
+- ["6Gemini15ScaleAnimatableP", "scale"]
+- ["6Gemini15ScaleAnimatableP", "scaleEffect"]
+- ["6Gemini22UIAppearanceAnimatableP", "Self"]
+- ["6Gemini22UIAppearanceAnimatableP", "scale"]
+- ["6Gemini22UIAppearanceAnimatableP", "scaleEffect"]
+- ["6Gemini21YawRotationAnimatableP", "Self"]
+- ["6Gemini21YawRotationAnimatableP", "scale"]
+- ["6Gemini21YawRotationAnimatableP", "scaleEffect"]
+depends-nominal:
+- "6Gemini24CircleRotationAnimatableP"
+- "6Gemini14CubeAnimatableP"
+- "6Gemini16CustomAnimatableP"
+- "6Gemini16EasingAnimatableP"
+- "SQ"
+- "6Gemini16GeminScaleEffectO"
+- "6GeminiAAP"
+- "6Gemini0A14AnimationModelC"
+- "SH"
+- !private "s6HasherV"
+- "6Gemini23PitchRotationAnimatableP"
+- "6Gemini22RollRotationAnimatableP"
+- "6Gemini15ScaleAnimatableP"
+- "6Gemini22UIAppearanceAnimatableP"
+- "6Gemini21YawRotationAnimatableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Target Support Files/Gemini/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/Gemini.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "69278deaf8743e5301fad4446b3af6c7"

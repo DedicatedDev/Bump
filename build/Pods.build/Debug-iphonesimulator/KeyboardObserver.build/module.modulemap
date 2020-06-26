@@ -1,0 +1,11 @@
+framework module KeyboardObserver {
+  umbrella header "KeyboardObserver-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module KeyboardObserver.Swift {
+    header "KeyboardObserver-Swift.h"
+    requires objc
+}

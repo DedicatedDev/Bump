@@ -1,0 +1,24 @@
+PODS:
+  - Gemini (1.4.0)
+  - KeyboardObserver (2.1.0)
+  - LBTATools (1.0.12)
+
+DEPENDENCIES:
+  - Gemini
+  - KeyboardObserver
+  - LBTATools
+
+SPEC REPOS:
+  trunk:
+    - Gemini
+    - KeyboardObserver
+    - LBTATools
+
+SPEC CHECKSUMS:
+  Gemini: 4ad915cca8805577fe3021e02feeca2b77dcdbfc
+  KeyboardObserver: 338f87db88f4d6f4b4af334fe025bc824251d57b
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+
+PODFILE CHECKSUM: 874df93097d8743f50e4d48333e41bde4ff7c2a2
+
+COCOAPODS: 1.9.1

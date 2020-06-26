@@ -1,0 +1,193 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GeminiEasing"
+provides-nominal:
+- "6Gemini0A6EasingO"
+provides-member:
+- ["6Gemini0A6EasingO", ""]
+- ["6Gemini0A6EasingO", "value"]
+provides-dynamic-lookup:
+depends-top-level:
+- "*"
+- "+"
+- "-"
+- "-="
+- "/"
+- "<"
+- "=="
+- "CGFloat"
+- !private "EasingFunction"
+- "EasingParameter"
+- "FloatLiteralType"
+- "GeminiEasing"
+- "IntegerLiteralType"
+- "TernaryPrecedence"
+- "cos"
+- "pow"
+- "sin"
+- "sqrt"
+depends-member:
+- ["s18AdditiveArithmeticP", "pi"]
+- ["SB", "pi"]
+- ["12CoreGraphics7CGFloatV", "pi"]
+- ["s7CVarArgP", "pi"]
+- ["SL", "pi"]
+- ["s17CustomReflectableP", "pi"]
+- ["s23CustomStringConvertibleP", "pi"]
+- ["Se", "pi"]
+- ["SE", "pi"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "easeInCirc"]
+- ["SQ", "easeInCubic"]
+- ["SQ", "easeInExpo"]
+- ["SQ", "easeInOutCirc"]
+- ["SQ", "easeInOutCubic"]
+- ["SQ", "easeInOutExpo"]
+- ["SQ", "easeInOutQuad"]
+- ["SQ", "easeInOutQuart"]
+- ["SQ", "easeInOutQuint"]
+- ["SQ", "easeInOutSine"]
+- ["SQ", "easeInQuad"]
+- ["SQ", "easeInQuart"]
+- ["SQ", "easeInQuint"]
+- ["SQ", "easeInSine"]
+- ["SQ", "easeOutCirc"]
+- ["SQ", "easeOutCubic"]
+- ["SQ", "easeOutExpo"]
+- ["SQ", "easeOutQuad"]
+- ["SQ", "easeOutQuart"]
+- ["SQ", "easeOutQuint"]
+- ["SQ", "easeOutSine"]
+- !private ["SQ", "easingFunction"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "linear"]
+- ["SQ", "pi"]
+- ["s25ExpressibleByFloatLiteralP", "pi"]
+- ["s27ExpressibleByIntegerLiteralP", "pi"]
+- ["SF", "pi"]
+- ["6Gemini0A6EasingO", "=="]
+- ["6Gemini0A6EasingO", "CGFloat"]
+- !private ["6Gemini0A6EasingO", "EasingFunction"]
+- ["6Gemini0A6EasingO", "EasingParameter"]
+- ["6Gemini0A6EasingO", "__derived_enum_equals"]
+- ["6Gemini0A6EasingO", "_rawHashValue"]
+- ["6Gemini0A6EasingO", "deinit"]
+- ["6Gemini0A6EasingO", "easeInCirc"]
+- ["6Gemini0A6EasingO", "easeInCubic"]
+- ["6Gemini0A6EasingO", "easeInExpo"]
+- ["6Gemini0A6EasingO", "easeInOutCirc"]
+- ["6Gemini0A6EasingO", "easeInOutCubic"]
+- ["6Gemini0A6EasingO", "easeInOutExpo"]
+- ["6Gemini0A6EasingO", "easeInOutQuad"]
+- ["6Gemini0A6EasingO", "easeInOutQuart"]
+- ["6Gemini0A6EasingO", "easeInOutQuint"]
+- ["6Gemini0A6EasingO", "easeInOutSine"]
+- ["6Gemini0A6EasingO", "easeInQuad"]
+- ["6Gemini0A6EasingO", "easeInQuart"]
+- ["6Gemini0A6EasingO", "easeInQuint"]
+- ["6Gemini0A6EasingO", "easeInSine"]
+- ["6Gemini0A6EasingO", "easeOutCirc"]
+- ["6Gemini0A6EasingO", "easeOutCubic"]
+- ["6Gemini0A6EasingO", "easeOutExpo"]
+- ["6Gemini0A6EasingO", "easeOutQuad"]
+- ["6Gemini0A6EasingO", "easeOutQuart"]
+- ["6Gemini0A6EasingO", "easeOutQuint"]
+- ["6Gemini0A6EasingO", "easeOutSine"]
+- !private ["6Gemini0A6EasingO", "easingFunction"]
+- ["6Gemini0A6EasingO", "hash"]
+- ["6Gemini0A6EasingO", "hashValue"]
+- ["6Gemini0A6EasingO", "linear"]
+- ["6Gemini0A6EasingO", "value"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "easeInCirc"]
+- ["SH", "easeInCubic"]
+- ["SH", "easeInExpo"]
+- ["SH", "easeInOutCirc"]
+- ["SH", "easeInOutCubic"]
+- ["SH", "easeInOutExpo"]
+- ["SH", "easeInOutQuad"]
+- ["SH", "easeInOutQuart"]
+- ["SH", "easeInOutQuint"]
+- ["SH", "easeInOutSine"]
+- ["SH", "easeInQuad"]
+- ["SH", "easeInQuart"]
+- ["SH", "easeInQuint"]
+- ["SH", "easeInSine"]
+- ["SH", "easeOutCirc"]
+- ["SH", "easeOutCubic"]
+- ["SH", "easeOutExpo"]
+- ["SH", "easeOutQuad"]
+- ["SH", "easeOutQuart"]
+- ["SH", "easeOutQuint"]
+- ["SH", "easeOutSine"]
+- !private ["SH", "easingFunction"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "linear"]
+- ["SH", "pi"]
+- !private ["s6HasherV", "combine"]
+- ["Sj", "pi"]
+- ["s13SignedNumericP", "pi"]
+- ["Sx", "pi"]
+- ["s15_CVarArgAlignedP", "pi"]
+- ["s22_CVarArgPassedAsDoubleP", "pi"]
+- ["s21_ObjectiveCBridgeableP", "pi"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "SB"
+- "12CoreGraphics7CGFloatV"
+- "s7CVarArgP"
+- "SL"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "SF"
+- "6Gemini0A6EasingO"
+- "SH"
+- !private "s6HasherV"
+- "Sj"
+- "s13SignedNumericP"
+- "Sx"
+- "s15_CVarArgAlignedP"
+- "s22_CVarArgPassedAsDoubleP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Target Support Files/Gemini/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/Gemini.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "0bd02bcb7a69e9a1f46a2e49fe57afea"

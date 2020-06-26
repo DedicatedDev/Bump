@@ -1,0 +1,11 @@
+framework module LBTATools {
+  umbrella header "LBTATools-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module LBTATools.Swift {
+    header "LBTATools-Swift.h"
+    requires objc
+}

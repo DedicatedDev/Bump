@@ -1,0 +1,174 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CircleRotationDirection"
+- "CircleRotationAnimatable"
+provides-nominal:
+- "6Gemini23CircleRotationDirectionO"
+- "6Gemini24CircleRotationAnimatableP"
+- "6Gemini0A14AnimationModelC"
+provides-member:
+- ["6Gemini23CircleRotationDirectionO", ""]
+- ["6Gemini24CircleRotationAnimatableP", ""]
+- ["6Gemini0A14AnimationModelC", ""]
+provides-dynamic-lookup:
+- "itemRotationEnabled"
+- "radius"
+- "rotateDirection"
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "CGFloat"
+- "CircleRotationAnimatable"
+- "CircleRotationDirection"
+- !private "FloatLiteralType"
+- "GeminiAnimationModel"
+- !private "IntegerLiteralType"
+- "ScaleAnimatable"
+- "UIAppearanceAnimatable"
+depends-member:
+- ["6Gemini24CircleRotationAnimatableP", "Bool"]
+- ["6Gemini24CircleRotationAnimatableP", "CGFloat"]
+- ["6Gemini24CircleRotationAnimatableP", "CircleRotationAnimatable"]
+- ["6Gemini24CircleRotationAnimatableP", "CircleRotationDirection"]
+- ["6Gemini24CircleRotationAnimatableP", ""]
+- !private ["6Gemini24CircleRotationAnimatableP", "circleRadius"]
+- !private ["6Gemini24CircleRotationAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini24CircleRotationAnimatableP", "itemRotationEnabled"]
+- ["6Gemini24CircleRotationAnimatableP", "radius"]
+- ["6Gemini24CircleRotationAnimatableP", "rotateDirection"]
+- ["6Gemini23CircleRotationDirectionO", "=="]
+- ["6Gemini23CircleRotationDirectionO", "__derived_enum_equals"]
+- ["6Gemini23CircleRotationDirectionO", "_rawHashValue"]
+- ["6Gemini23CircleRotationDirectionO", "anticlockwise"]
+- ["6Gemini23CircleRotationDirectionO", "clockwise"]
+- ["6Gemini23CircleRotationDirectionO", "deinit"]
+- ["6Gemini23CircleRotationDirectionO", "hash"]
+- ["6Gemini23CircleRotationDirectionO", "hashValue"]
+- !private ["6Gemini14CubeAnimatableP", "circleRadius"]
+- !private ["6Gemini14CubeAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini14CubeAnimatableP", "itemRotationEnabled"]
+- ["6Gemini14CubeAnimatableP", "radius"]
+- ["6Gemini14CubeAnimatableP", "rotateDirection"]
+- !private ["6Gemini16CustomAnimatableP", "circleRadius"]
+- !private ["6Gemini16CustomAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini16CustomAnimatableP", "itemRotationEnabled"]
+- ["6Gemini16CustomAnimatableP", "radius"]
+- ["6Gemini16CustomAnimatableP", "rotateDirection"]
+- ["6Gemini16EasingAnimatableP", "Bool"]
+- ["6Gemini16EasingAnimatableP", "CGFloat"]
+- ["6Gemini16EasingAnimatableP", "CircleRotationAnimatable"]
+- ["6Gemini16EasingAnimatableP", "CircleRotationDirection"]
+- !private ["6Gemini16EasingAnimatableP", "circleRadius"]
+- !private ["6Gemini16EasingAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini16EasingAnimatableP", "itemRotationEnabled"]
+- ["6Gemini16EasingAnimatableP", "radius"]
+- ["6Gemini16EasingAnimatableP", "rotateDirection"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["6GeminiAAP", "circleRadius"]
+- !private ["6GeminiAAP", "isItemRotationEnabled"]
+- ["6GeminiAAP", "itemRotationEnabled"]
+- ["6GeminiAAP", "radius"]
+- ["6GeminiAAP", "rotateDirection"]
+- ["6Gemini0A14AnimationModelC", "Bool"]
+- ["6Gemini0A14AnimationModelC", "CGFloat"]
+- ["6Gemini0A14AnimationModelC", "CircleRotationAnimatable"]
+- ["6Gemini0A14AnimationModelC", "CircleRotationDirection"]
+- !private ["6Gemini0A14AnimationModelC", "circleRadius"]
+- ["6Gemini0A14AnimationModelC", "deinit"]
+- !private ["6Gemini0A14AnimationModelC", "isItemRotationEnabled"]
+- ["6Gemini0A14AnimationModelC", "itemRotationEnabled"]
+- ["6Gemini0A14AnimationModelC", "radius"]
+- ["6Gemini0A14AnimationModelC", "rotateDirection"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["6Gemini23PitchRotationAnimatableP", "circleRadius"]
+- !private ["6Gemini23PitchRotationAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini23PitchRotationAnimatableP", "itemRotationEnabled"]
+- ["6Gemini23PitchRotationAnimatableP", "radius"]
+- ["6Gemini23PitchRotationAnimatableP", "rotateDirection"]
+- !private ["6Gemini22RollRotationAnimatableP", "circleRadius"]
+- !private ["6Gemini22RollRotationAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini22RollRotationAnimatableP", "itemRotationEnabled"]
+- ["6Gemini22RollRotationAnimatableP", "radius"]
+- ["6Gemini22RollRotationAnimatableP", "rotateDirection"]
+- ["6Gemini15ScaleAnimatableP", "Bool"]
+- ["6Gemini15ScaleAnimatableP", "CGFloat"]
+- ["6Gemini15ScaleAnimatableP", "CircleRotationAnimatable"]
+- ["6Gemini15ScaleAnimatableP", "CircleRotationDirection"]
+- ["6Gemini15ScaleAnimatableP", ""]
+- !private ["6Gemini15ScaleAnimatableP", "circleRadius"]
+- !private ["6Gemini15ScaleAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini15ScaleAnimatableP", "itemRotationEnabled"]
+- ["6Gemini15ScaleAnimatableP", "radius"]
+- ["6Gemini15ScaleAnimatableP", "rotateDirection"]
+- ["6Gemini22UIAppearanceAnimatableP", "Bool"]
+- ["6Gemini22UIAppearanceAnimatableP", "CGFloat"]
+- ["6Gemini22UIAppearanceAnimatableP", "CircleRotationAnimatable"]
+- ["6Gemini22UIAppearanceAnimatableP", "CircleRotationDirection"]
+- ["6Gemini22UIAppearanceAnimatableP", ""]
+- !private ["6Gemini22UIAppearanceAnimatableP", "circleRadius"]
+- !private ["6Gemini22UIAppearanceAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini22UIAppearanceAnimatableP", "itemRotationEnabled"]
+- ["6Gemini22UIAppearanceAnimatableP", "radius"]
+- ["6Gemini22UIAppearanceAnimatableP", "rotateDirection"]
+- !private ["6Gemini21YawRotationAnimatableP", "circleRadius"]
+- !private ["6Gemini21YawRotationAnimatableP", "isItemRotationEnabled"]
+- ["6Gemini21YawRotationAnimatableP", "itemRotationEnabled"]
+- ["6Gemini21YawRotationAnimatableP", "radius"]
+- ["6Gemini21YawRotationAnimatableP", "rotateDirection"]
+depends-nominal:
+- "6Gemini24CircleRotationAnimatableP"
+- "6Gemini23CircleRotationDirectionO"
+- "6Gemini14CubeAnimatableP"
+- "6Gemini16CustomAnimatableP"
+- "6Gemini16EasingAnimatableP"
+- "SQ"
+- "6GeminiAAP"
+- "6Gemini0A14AnimationModelC"
+- "SH"
+- !private "s6HasherV"
+- "6Gemini23PitchRotationAnimatableP"
+- "6Gemini22RollRotationAnimatableP"
+- "6Gemini15ScaleAnimatableP"
+- "6Gemini22UIAppearanceAnimatableP"
+- "6Gemini21YawRotationAnimatableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Target Support Files/Gemini/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/Gemini.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9477aaac34fa5acd65b4b715b71d0bcd"

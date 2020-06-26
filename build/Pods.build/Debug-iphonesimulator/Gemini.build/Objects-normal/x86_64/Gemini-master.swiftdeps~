@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "19bb2e607de247687bd7ce50333bf9ee"
+build_time: [1588887735, 367151000]
+inputs:
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/CircleRotateAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/CubeAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/CustomAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/EasingAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/EasingFunction.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/GeminiAnimationModel.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/GeminiCell.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/GeminiCollectionView.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/PitchRotationAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/RollRotationAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/ScaleAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/UIAppearanceAnimatable.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/UIViewExtension.swift": [1587495046, 0]
+  "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Gemini/Gemini/YawRotationAnimatable.swift": [1587495046, 0]

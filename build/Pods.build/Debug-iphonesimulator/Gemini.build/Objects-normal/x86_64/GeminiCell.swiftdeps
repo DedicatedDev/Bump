@@ -1,0 +1,259 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GeminiCell"
+provides-nominal:
+- "6Gemini0A4CellC"
+provides-member:
+- ["6Gemini0A4CellC", ""]
+provides-dynamic-lookup:
+- "prepareForReuse"
+- "shadowView"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "CATransform3DIdentity"
+- "GeminiCell"
+- "UICollectionViewCell"
+- "UIView"
+depends-member:
+- !private ["So7CALayerC", "transform"]
+- !private ["So15CALayerDelegateP", "CATransform3DIdentity"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "adjustAnchorPoint"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "prepareForReuse"]
+- !private ["So13CAMediaTimingP", "transform"]
+- !private ["s7CVarArgP", "CATransform3DIdentity"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "adjustAnchorPoint"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "prepareForReuse"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "CATransform3DIdentity"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "adjustAnchorPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "prepareForReuse"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "CATransform3DIdentity"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "adjustAnchorPoint"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "prepareForReuse"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["SQ", "CATransform3DIdentity"]
+- ["SQ", ""]
+- !private ["SQ", "adjustAnchorPoint"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "prepareForReuse"]
+- !private ["SQ", "transform"]
+- !private ["6Gemini0A4CellC", "CATransform3DIdentity"]
+- ["6Gemini0A4CellC", "UIView"]
+- !private ["6Gemini0A4CellC", "adjustAnchorPoint"]
+- ["6Gemini0A4CellC", "deinit"]
+- ["6Gemini0A4CellC", "init"]
+- !private ["6Gemini0A4CellC", "layer"]
+- ["6Gemini0A4CellC", "prepareForReuse"]
+- ["6Gemini0A4CellC", "shadowView"]
+- !private ["SH", "CATransform3DIdentity"]
+- ["SH", ""]
+- !private ["SH", "adjustAnchorPoint"]
+- !private ["SH", "layer"]
+- !private ["SH", "prepareForReuse"]
+- !private ["SH", "transform"]
+- !private ["So8NSCodingP", "CATransform3DIdentity"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "adjustAnchorPoint"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "prepareForReuse"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So8NSObjectC", "CATransform3DIdentity"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "adjustAnchorPoint"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "layer"]
+- ["So8NSObjectC", "prepareForReuse"]
+- ["So8NSObjectC", "shadowView"]
+- !private ["So8NSObjectC", "transform"]
+- !private ["So8NSObjectP", "CATransform3DIdentity"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "adjustAnchorPoint"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "prepareForReuse"]
+- !private ["So8NSObjectP", "transform"]
+- !private ["So14NSSecureCodingP", "transform"]
+- !private ["So29UIAccessibilityIdentificationP", "CATransform3DIdentity"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "adjustAnchorPoint"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "prepareForReuse"]
+- !private ["So12UIAppearanceP", "CATransform3DIdentity"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "adjustAnchorPoint"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "prepareForReuse"]
+- !private ["So21UIAppearanceContainerP", "CATransform3DIdentity"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "adjustAnchorPoint"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "prepareForReuse"]
+- !private ["So24UICollectionReusableViewC", "CATransform3DIdentity"]
+- ["So24UICollectionReusableViewC", "UIView"]
+- !private ["So24UICollectionReusableViewC", "adjustAnchorPoint"]
+- ["So24UICollectionReusableViewC", "init"]
+- !private ["So24UICollectionReusableViewC", "layer"]
+- ["So24UICollectionReusableViewC", "prepareForReuse"]
+- ["So24UICollectionReusableViewC", "shadowView"]
+- !private ["So20UICollectionViewCellC", "CATransform3DIdentity"]
+- ["So20UICollectionViewCellC", "UIView"]
+- ["So20UICollectionViewCellC", ""]
+- !private ["So20UICollectionViewCellC", "adjustAnchorPoint"]
+- ["So20UICollectionViewCellC", "init"]
+- !private ["So20UICollectionViewCellC", "layer"]
+- ["So20UICollectionViewCellC", "prepareForReuse"]
+- ["So20UICollectionViewCellC", "shadowView"]
+- !private ["So17UICoordinateSpaceP", "CATransform3DIdentity"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "adjustAnchorPoint"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "prepareForReuse"]
+- !private ["So13UIDynamicItemP", "CATransform3DIdentity"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "adjustAnchorPoint"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "prepareForReuse"]
+- !private ["So18UIFocusEnvironmentP", "CATransform3DIdentity"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "adjustAnchorPoint"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "prepareForReuse"]
+- !private ["So11UIFocusItemP", "CATransform3DIdentity"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "adjustAnchorPoint"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "prepareForReuse"]
+- !private ["So20UIFocusItemContainerP", "CATransform3DIdentity"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "adjustAnchorPoint"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "prepareForReuse"]
+- !private ["So24UILargeContentViewerItemP", "CATransform3DIdentity"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "adjustAnchorPoint"]
+- !private ["So24UILargeContentViewerItemP", "layer"]
+- !private ["So24UILargeContentViewerItemP", "prepareForReuse"]
+- !private ["So30UIPasteConfigurationSupportingP", "CATransform3DIdentity"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "adjustAnchorPoint"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "prepareForReuse"]
+- !private ["So11UIResponderC", "CATransform3DIdentity"]
+- ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "adjustAnchorPoint"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "prepareForReuse"]
+- ["So11UIResponderC", "shadowView"]
+- !private ["So30UIResponderStandardEditActionsP", "CATransform3DIdentity"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "adjustAnchorPoint"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "prepareForReuse"]
+- !private ["So18UITraitEnvironmentP", "CATransform3DIdentity"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "adjustAnchorPoint"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "prepareForReuse"]
+- !private ["So23UIUserActivityRestoringP", "CATransform3DIdentity"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "adjustAnchorPoint"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "prepareForReuse"]
+- !private ["So6UIViewC", "CATransform3DIdentity"]
+- ["So6UIViewC", "UIView"]
+- !private ["So6UIViewC", "adjustAnchorPoint"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "layer"]
+- ["So6UIViewC", "prepareForReuse"]
+- ["So6UIViewC", "shadowView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CATransform3DIdentity"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "adjustAnchorPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prepareForReuse"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CATransform3DIdentity"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "adjustAnchorPoint"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "layer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "prepareForReuse"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "transform"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "CATransform3DIdentity"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "adjustAnchorPoint"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "prepareForReuse"]
+depends-nominal:
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "6Gemini0A4CellC"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So24UICollectionReusableViewC"
+- "So20UICollectionViewCellC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/Pods/Target Support Files/Gemini/Gemini-umbrella.h"
+- "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/Gemini.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7003a570be7ccf5bb254940222f1226d"

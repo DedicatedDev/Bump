@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Debug-iphonesimulator/LBTATools/LBTATools.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/freebird/Desktop/Work/wokinprogress/Bump/Bump/build/Pods.build/Debug-iphonesimulator/LBTATools.build/unextended-module.modulemap",
+    }]
+  }]
+}

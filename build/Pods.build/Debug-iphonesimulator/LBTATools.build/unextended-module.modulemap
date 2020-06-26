@@ -1,0 +1,10 @@
+framework module LBTATools {
+  umbrella header "LBTATools-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module LBTATools.__Swift {
+    exclude header "LBTATools-Swift.h"
+}
